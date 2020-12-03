@@ -1,6 +1,6 @@
 # finalpaymentapp
 
-A new Flutter application.
+This is a Flutter Application to demonstrate Integration with Stripe Payment Gateway with some exicting UI
 
 ## Getting Started
 
