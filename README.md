@@ -1,7 +1,7 @@
 # finalpaymentapp
 
 This is a Flutter Application to demonstrate Integration with Stripe Payment Gateway with some exicting UI
-![alt text](https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(1).jpeg?raw=true)
+![alt text](https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(1).jpeg?raw=true==250x250)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
