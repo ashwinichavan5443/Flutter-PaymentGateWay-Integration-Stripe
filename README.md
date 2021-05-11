@@ -1,13 +1,14 @@
-# Flutter_Pyamentgateway_Integration
+# Flutter PaymentGateway Integration
 
 This is a Flutter Application to demonstrate Integration with Stripe Payment Gateway with some exicting UI<br><br>
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(1).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(2).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(3).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(4).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(5).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(6).jpeg"  width="200" height="400" />
-<img src="https://github.com/ashwinichavan5443/Flutter-PaymentGateWay-Integration-Stripe/blob/main/ss%20(7).jpeg"  width="200" height="400" />
+<img src="ss (1).jpeg"  width="200" height="400" />
+<img src="ss (2).jpeg"  width="200" height="400" />
+<img src="ss (3).jpeg"  width="200" height="400" />
+<img src="ss (4).jpeg"  width="200" height="400" />
+<img src="ss (5).jpeg"  width="200" height="400" />
+<img src="ss (6).jpeg"  width="200" height="400" />
+<img src="ss (7).jpeg"  width="200" height="400" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
